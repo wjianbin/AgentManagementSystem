@@ -9,5 +9,8 @@
 在用户显示的页面上，大多都是采用的ajax实时刷新。对于代理商的扣款缴费，都采用事物回滚，保护资金的正常。
 
 ![Image text](https://github.com/yanzhao77/AgentManagementSystem/blob/master/AgentSystem-03-1/src/main/webapp/imgs/1.png)
-        
       
+![Image text](https://github.com/yanzhao77/AgentManagementSystem/blob/master/AgentSystem-03-1/src/main/webapp/imgs/2.png)
+![Image text](https://github.com/yanzhao77/AgentManagementSystem/blob/master/AgentSystem-03-1/src/main/webapp/imgs/3.png)
+![Image text](https://github.com/yanzhao77/AgentManagementSystem/blob/master/AgentSystem-03-1/src/main/webapp/imgs/4.png)
+![Image text](https://github.com/yanzhao77/AgentManagementSystem/blob/master/AgentSystem-03-1/src/main/webapp/imgs/5.png)
